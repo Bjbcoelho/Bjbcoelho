@@ -1,28 +1,18 @@
-## Bem-vindo(a) ao perfil do Bjbcoelho 😁
+## Olá, eu sou o Bruno Coelho! 👋
 
- <div>
-   <a href="https://github.com/Bjbcoelho">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bjbcoelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjbcoelho&layout=compact&langs_count=6&theme=tokyonight"/>
+Seja bem-vindo ao meu perfil! 
+Estou numa jornada focada de 5 anos para me tornar um Desenvolvedor de Software de alta performance. 
+Rejeito o mediano e busco excelência e eficiencia em cada linha de código que pretendo escrever.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
- 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
-  ![Snake animation](https://github.com/Bjbcoelho/Bjbcoelho/blob/output/github-contribution-grid-snake.svg)
+### 🚀 Objetivos Atuais:
+- 🐍 Dominar a lógica de programação e a sintaxe do **Python** (CursoemVideo).
+- 🧠 Construir uma base técnica sólida para ingressar na graduação da **Infnet** em 2027.
+- 🛠️ Desenvolver projetos de automação e segurança (como filtros inteligentes de e-mail e monitores de rede).
 
-</div>
+### 🛠️ Tecnologias & Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
+*"Passo a passo, um exercício de cada vez. O foco está na consistência."*
